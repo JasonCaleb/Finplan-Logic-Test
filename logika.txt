@@ -1,3 +1,4 @@
+these are the search queries I have used while doing the code:
 - sort in python
 - what is the difference between sorted and sort in python
 - Python RegEx
